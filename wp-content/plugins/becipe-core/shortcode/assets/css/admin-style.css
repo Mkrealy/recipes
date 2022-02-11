@@ -1,0 +1,19 @@
+.mz_admin_post_options .mz_video_url label{
+	display: block;
+	margin: 0px;
+	margin-bottom: 10px;
+}
+.mz_admin_post_options .mz_video_url textarea{
+	width: 100%;
+	min-height: 70px;
+}
+.mz_admin_post_options > div{
+	margin-bottom: 10px;
+}
+.mz_admin_post_options > div:last-child{
+	margin-bottom: 0px;
+}
+.mz_admin_post_options label{
+	display: inline-block;
+	margin-right: 10px;
+}

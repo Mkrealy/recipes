@@ -1,0 +1,77 @@
+/*******************************************************************************************/
+/* Feedback Form Button
+/*******************************************************************************************/
+#oih-feedback-button { position: fixed; bottom: 30px; right: 20px; width: 72px; height: 72px; line-height: 80px; text-align: center; background: #fff; border-radius: 50px; box-shadow: 0 3px 10px 4px rgba(0,0,0,0.065); cursor: pointer; transition: all 0.2s ease-in-out; }
+#oih-feedback-button:hover { box-shadow: 0 3px 10px 4px rgba(0,0,0,0.125); }
+
+#oih-feedback-button img { visibility: hidden; opacity: 0; width: 54px; height: 54px; margin-top: -8px; vertical-align: middle; }
+#oih-feedback-button.oih-inactive img { visibility: visible; opacity: 1; transition: all 0.2s ease-in-out; }
+
+#oih-feedback-button .oih-close { position: absolute; left: 0; top: 1px; width: 72px; height: 72px; line-height: 72px; text-align: center; font-size: 50px; color: #d1d1d1; visibility: visible; opacity: 1; border-radius: 50px; }
+#oih-feedback-button.oih-inactive .oih-close { visibility: hidden; opacity: 0; transition: all 0.2s ease-in-out; }
+
+/*******************************************************************************************/
+/* Feedback Form
+/*******************************************************************************************/
+#oih-feedback-form-wrapper { position: fixed; bottom: 120px; right: 20px; width: 300px; height: 385px; background: #fff; border-radius: 7px; box-shadow: 0 3px 10px 4px rgba(0,0,0,0.065); transition: all 0.2s ease-in-out; }
+#oih-feedback-form-wrapper.oih-inactive { visibility: hidden; opacity: 0; bottom: 90px; }
+
+/* Form header */
+#oih-feedback-form-header { position: relative; background: #00a8ff; height: 70px; border-top-left-radius: 7px; border-top-right-radius: 7px; }
+
+#oih-feedback-form-header-image { position: absolute; left: 50%; top: -35px; width: 70px; height: 70px; line-height: 70px; margin-left: -38px; text-align: center; background: #fff; border-radius: 50px; border: 3px solid #00a8ff; }
+#oih-feedback-form-header-image img { width: 55px; height: 55px; vertical-align: middle; }
+
+#oih-feedback-form-header strong { position: absolute; left: 0; right: 0; bottom: 8px; text-align: center; color: #fff; font-size: 13px; }
+
+/* Form panels */
+#oih-feedback-form-inner { position: relative; height: 255px; overflow: hidden; }
+
+.oih-feedback-form-panel { position: absolute; top: 0; left: 0; padding: 15px; height: 255px; width: 300px; box-sizing: border-box; transition: left 0.25s ease-in-out; }
+.oih-feedback-form-panel.oih-done { left: -320px; }
+.oih-feedback-form-panel.oih-todo { left: 320px; }
+
+.oih-feedback-form-panel-label { display: block; font-weight: bold; margin-bottom: 15px; }
+
+.oih-feedback-form-panel input[type=radio] { display: none; }
+.oih-feedback-form-panel label:not(.oih-feedback-form-panel-label) { display: block; background: #f1f1f1; color: #565656; padding: 6px 12px; border-radius: 12px; margin-bottom: 7px; transition: background 0.2s ease-in-out; }
+.oih-feedback-form-panel label:not(.oih-feedback-form-panel-label):hover { background: #d1d1d1; }
+
+.oih-feedback-form-panel input:checked + label { background: #00a8ff !important; color: #fff !important; }
+
+.oih-feedback-form-panel textarea,
+.oih-feedback-form-panel input[type=email] { width: 100%; padding: 10px; background: #f5f5f5; border: 2px solid transparent; border-radius: 4px; box-shadow: none; font-size: 13px; box-sizing: border-box; }
+.oih-feedback-form-panel textarea { height: 170px; }
+
+.oih-feedback-form-panel textarea:focus,
+.oih-feedback-form-panel input[type=email]:focus { border: 2px solid rgba( 0, 168, 255, 0.5 ); }
+
+.oih-feedback-form-panel .description { font-size: 11px; margin-top: 7px; }
+
+#oih-feedback-form-description-char-count-1,
+#oih-feedback-form-description-char-count-2 { text-align: right; }
+
+#oih-feedback-form-description-char-count-2 { display: none; }
+
+/* Panel 4 - Success Message */
+#oih-feedback-form-panel-4 { display: none; text-align: center; }
+#oih-feedback-form-panel-4 .dashicons { margin-top: 80px; width: 34px; height: 32px; line-height: 34px; vertical-align: middle; text-align: center; background: #1abc9c; color: #fff; border-radius: 50%; font-size: 28px; text-indent: -2px; padding-top: 2px; }
+
+/* Form navigation */
+#oih-feedback-form-navigation { display: none; position: absolute; bottom: 0; left: 0; height: 70px; width: 100%; padding: 15px; text-align: center; box-sizing: border-box; }
+
+#oih-feedback-form-back,
+#oih-feedback-form-next,
+#oih-feedback-form-send { display: inline-block; line-height: 40px; vertical-align: middle; padding: 0 20px; text-decoration: none; font-weight: bold; font-size: 12px; border-radius: 4px; transition: background 0.2s ease-in-out; box-shadow: none; }
+
+#oih-feedback-form-back { float: left; background: #f1f1f1; color: #565656; }
+#oih-feedback-form-back:hover { background: #e1e1e1; }
+#oih-feedback-form-next,
+#oih-feedback-form-send { float: right; background: #00a8ff; color: #fff; }
+#oih-feedback-form-next:hover,
+#oih-feedback-form-send:hover { background: #0097e6; }
+
+#oih-feedback-form-send { display: none; }
+
+#oih-feedback-form-navigation .spinner { display: none; float: none; position: absolute; left: 50%; margin-left: -10px; top: 22px; visibility: visible; }
+#oih-feedback-form-navigation a.oih-inactive { background: rgba( 0, 168, 255, 0.35 ); }

@@ -1,0 +1,1375 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Fotofly\n"
+"POT-Creation-Date: 2020-11-19 14:16+0500\n"
+"PO-Revision-Date: 2018-10-16 10:57+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../frel-core.php:31 ../frel-core.php:41
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#. translators: 1: Frel 2: Elementor
+#: ../frel-core.php:98
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: ../frel-core.php:99
+msgid "Frel"
+msgstr ""
+
+#: ../frel-core.php:100
+msgid "Elementor"
+msgstr ""
+
+#: ../frel-plugin.php:53
+msgid "Frel Elements"
+msgstr ""
+
+#: ../includes/frel-helper.php:28
+msgid "Info"
+msgstr ""
+
+#: ../includes/frel-helper.php:29
+#, php-format
+msgid "Please, use %s%s%s shortcode instead that. This shortcode has been deprecated. Don't worry, this message will not be shown to other users."
+msgstr ""
+
+#: ../includes/frel-helper.php:260
+msgid "Birthday #1"
+msgstr ""
+
+#: ../includes/frel-helper.php:261
+msgid "Birthday #2"
+msgstr ""
+
+#: ../includes/frel-helper.php:262
+msgid "Birthday #3"
+msgstr ""
+
+#: ../includes/frel-helper.php:263
+msgid "Birthday #4"
+msgstr ""
+
+#: ../includes/frel-helper.php:265
+msgid "Browser #1"
+msgstr ""
+
+#: ../includes/frel-helper.php:266
+msgid "Browser #2"
+msgstr ""
+
+#: ../includes/frel-helper.php:267
+msgid "Browser #3"
+msgstr ""
+
+#: ../includes/frel-helper.php:268
+msgid "Browser #4"
+msgstr ""
+
+#: ../includes/frel-helper.php:269
+msgid "Browser #5"
+msgstr ""
+
+#: ../includes/frel-helper.php:270
+msgid "Browser #6"
+msgstr ""
+
+#: ../includes/frel-helper.php:271
+msgid "Browser #7"
+msgstr ""
+
+#: ../includes/frel-helper.php:273
+msgid "Calendar #1"
+msgstr ""
+
+#: ../includes/frel-helper.php:274
+msgid "Calendar #2"
+msgstr ""
+
+#: ../includes/frel-helper.php:275
+msgid "Calendar #3"
+msgstr ""
+
+#: ../includes/frel-helper.php:276
+msgid "Calendar #4"
+msgstr ""
+
+#: ../includes/frel-helper.php:278
+msgid "Call #1"
+msgstr ""
+
+#: ../includes/frel-helper.php:279
+msgid "Call #2"
+msgstr ""
+
+#: ../includes/frel-helper.php:280
+msgid "Call #3"
+msgstr ""
+
+#: ../includes/frel-helper.php:281
+msgid "Call #4"
+msgstr ""
+
+#: ../includes/frel-helper.php:282
+msgid "Call #5"
+msgstr ""
+
+#: ../includes/frel-helper.php:283
+msgid "Call #6"
+msgstr ""
+
+#: ../includes/frel-helper.php:284
+msgid "Call #7"
+msgstr ""
+
+#: ../includes/frel-helper.php:285
+msgid "Call #8"
+msgstr ""
+
+#: ../includes/frel-helper.php:286
+msgid "Call #9"
+msgstr ""
+
+#: ../includes/frel-helper.php:287
+msgid "Call #10"
+msgstr ""
+
+#: ../includes/frel-helper.php:289
+msgid "Category #1"
+msgstr ""
+
+#: ../includes/frel-helper.php:290
+msgid "Category #2"
+msgstr ""
+
+#: ../includes/frel-helper.php:292
+msgid "Client #1"
+msgstr ""
+
+#: ../includes/frel-helper.php:293
+msgid "Client #2"
+msgstr ""
+
+#: ../includes/frel-helper.php:294
+msgid "Client #3"
+msgstr ""
+
+#: ../includes/frel-helper.php:295
+msgid "Client #4"
+msgstr ""
+
+#: ../includes/frel-helper.php:296
+msgid "Client #5"
+msgstr ""
+
+#: ../includes/frel-helper.php:297
+msgid "Client #6"
+msgstr ""
+
+#: ../includes/frel-helper.php:298
+msgid "Client #7"
+msgstr ""
+
+#: ../includes/frel-helper.php:300
+msgid "Degree #1"
+msgstr ""
+
+#: ../includes/frel-helper.php:301
+msgid "Degree #2"
+msgstr ""
+
+#: ../includes/frel-helper.php:302
+msgid "Degree #3"
+msgstr ""
+
+#: ../includes/frel-helper.php:303
+msgid "Degree #4"
+msgstr ""
+
+#: ../includes/frel-helper.php:304
+msgid "Degree #5"
+msgstr ""
+
+#: ../includes/frel-helper.php:305
+msgid "Degree #6"
+msgstr ""
+
+#: ../includes/frel-helper.php:306
+msgid "Degree #7"
+msgstr ""
+
+#: ../includes/frel-helper.php:308
+msgid "Down #1"
+msgstr ""
+
+#: ../includes/frel-helper.php:309
+msgid "Down #2"
+msgstr ""
+
+#: ../includes/frel-helper.php:310
+msgid "Down #3"
+msgstr ""
+
+#: ../includes/frel-helper.php:312
+msgid "Facebook #1"
+msgstr ""
+
+#: ../includes/frel-helper.php:313
+msgid "Facebook #2"
+msgstr ""
+
+#: ../includes/frel-helper.php:314
+msgid "Facebook #3"
+msgstr ""
+
+#: ../includes/frel-helper.php:315
+msgid "Facebook #4"
+msgstr ""
+
+#: ../includes/frel-helper.php:316
+msgid "Facebook #5"
+msgstr ""
+
+#: ../includes/frel-helper.php:317
+msgid "Facebook #6"
+msgstr ""
+
+#: ../includes/frel-helper.php:319
+msgid "Hobby #1"
+msgstr ""
+
+#: ../includes/frel-helper.php:320
+msgid "Hobby #2"
+msgstr ""
+
+#: ../includes/frel-helper.php:321
+msgid "Hobby #3"
+msgstr ""
+
+#: ../includes/frel-helper.php:322
+msgid "Hobby #4"
+msgstr ""
+
+#: ../includes/frel-helper.php:323
+msgid "Hobby #5"
+msgstr ""
+
+#: ../includes/frel-helper.php:324
+msgid "Hobby #6"
+msgstr ""
+
+#: ../includes/frel-helper.php:326
+msgid "Instagram #1"
+msgstr ""
+
+#: ../includes/frel-helper.php:327
+msgid "Instagram #2"
+msgstr ""
+
+#: ../includes/frel-helper.php:328
+msgid "Instagram #3"
+msgstr ""
+
+#: ../includes/frel-helper.php:329
+msgid "Instagram #4"
+msgstr ""
+
+#: ../includes/frel-helper.php:331
+msgid "Linkedin #1"
+msgstr ""
+
+#: ../includes/frel-helper.php:332
+msgid "Linkedin #2"
+msgstr ""
+
+#: ../includes/frel-helper.php:333
+msgid "Linkedin #3"
+msgstr ""
+
+#: ../includes/frel-helper.php:334
+msgid "Linkedin #4"
+msgstr ""
+
+#: ../includes/frel-helper.php:336
+msgid "Location #1"
+msgstr ""
+
+#: ../includes/frel-helper.php:337
+msgid "Location #2"
+msgstr ""
+
+#: ../includes/frel-helper.php:338
+msgid "Location #3"
+msgstr ""
+
+#: ../includes/frel-helper.php:339
+msgid "Location #4"
+msgstr ""
+
+#: ../includes/frel-helper.php:340
+msgid "Location #5"
+msgstr ""
+
+#: ../includes/frel-helper.php:342
+msgid "Message #1"
+msgstr ""
+
+#: ../includes/frel-helper.php:343
+msgid "Message #2"
+msgstr ""
+
+#: ../includes/frel-helper.php:344
+msgid "Message #3"
+msgstr ""
+
+#: ../includes/frel-helper.php:345
+msgid "Message #4"
+msgstr ""
+
+#: ../includes/frel-helper.php:346
+msgid "Message #5"
+msgstr ""
+
+#: ../includes/frel-helper.php:348
+msgid "Classmates #1"
+msgstr ""
+
+#: ../includes/frel-helper.php:349
+msgid "Classmates #2"
+msgstr ""
+
+#: ../includes/frel-helper.php:350
+msgid "Classmates #3"
+msgstr ""
+
+#: ../includes/frel-helper.php:352
+msgid "Pinterest #1"
+msgstr ""
+
+#: ../includes/frel-helper.php:353
+msgid "Pinterest #2"
+msgstr ""
+
+#: ../includes/frel-helper.php:354
+msgid "Pinterest #3"
+msgstr ""
+
+#: ../includes/frel-helper.php:356
+msgid "Portfolio #1"
+msgstr ""
+
+#: ../includes/frel-helper.php:357
+msgid "Portfolio #2"
+msgstr ""
+
+#: ../includes/frel-helper.php:358
+msgid "Portfolio #3"
+msgstr ""
+
+#: ../includes/frel-helper.php:359
+msgid "Portfolio #4"
+msgstr ""
+
+#: ../includes/frel-helper.php:360
+msgid "Portfolio #5"
+msgstr ""
+
+#: ../includes/frel-helper.php:361
+msgid "Portfolio #6"
+msgstr ""
+
+#: ../includes/frel-helper.php:363
+msgid "Quote #1"
+msgstr ""
+
+#: ../includes/frel-helper.php:364
+msgid "Quote #2"
+msgstr ""
+
+#: ../includes/frel-helper.php:365
+msgid "Quote #3"
+msgstr ""
+
+#: ../includes/frel-helper.php:366
+msgid "Quote #4"
+msgstr ""
+
+#: ../includes/frel-helper.php:367
+msgid "Quote #5"
+msgstr ""
+
+#: ../includes/frel-helper.php:368
+msgid "Quote #6"
+msgstr ""
+
+#: ../includes/frel-helper.php:369
+msgid "Quote #7"
+msgstr ""
+
+#: ../includes/frel-helper.php:370
+msgid "Quote #8"
+msgstr ""
+
+#: ../includes/frel-helper.php:371
+msgid "Quote #9"
+msgstr ""
+
+#: ../includes/frel-helper.php:373
+msgid "Responsive #1"
+msgstr ""
+
+#: ../includes/frel-helper.php:374
+msgid "Responsive #2"
+msgstr ""
+
+#: ../includes/frel-helper.php:375
+msgid "Responsive #3"
+msgstr ""
+
+#: ../includes/frel-helper.php:376
+msgid "Responsive #4"
+msgstr ""
+
+#: ../includes/frel-helper.php:377
+msgid "Responsive #5"
+msgstr ""
+
+#: ../includes/frel-helper.php:379
+msgid "Skype #1"
+msgstr ""
+
+#: ../includes/frel-helper.php:380
+msgid "Skype #2"
+msgstr ""
+
+#: ../includes/frel-helper.php:382
+msgid "Snapchat #1"
+msgstr ""
+
+#: ../includes/frel-helper.php:383
+msgid "Snapchat #2"
+msgstr ""
+
+#: ../includes/frel-helper.php:385
+msgid "Study #1"
+msgstr ""
+
+#: ../includes/frel-helper.php:386
+msgid "Study #2"
+msgstr ""
+
+#: ../includes/frel-helper.php:387
+msgid "Study #3"
+msgstr ""
+
+#: ../includes/frel-helper.php:388
+msgid "Study #4"
+msgstr ""
+
+#: ../includes/frel-helper.php:389
+msgid "Study #5"
+msgstr ""
+
+#: ../includes/frel-helper.php:391
+msgid "Support #1"
+msgstr ""
+
+#: ../includes/frel-helper.php:392
+msgid "Support #2"
+msgstr ""
+
+#: ../includes/frel-helper.php:393
+msgid "Support #3"
+msgstr ""
+
+#: ../includes/frel-helper.php:394
+msgid "Support #4"
+msgstr ""
+
+#: ../includes/frel-helper.php:395
+msgid "Support #5"
+msgstr ""
+
+#: ../includes/frel-helper.php:396
+msgid "Support #6"
+msgstr ""
+
+#: ../includes/frel-helper.php:397
+msgid "Support #7"
+msgstr ""
+
+#: ../includes/frel-helper.php:399
+msgid "Twitter #1"
+msgstr ""
+
+#: ../includes/frel-helper.php:400
+msgid "Twitter #2"
+msgstr ""
+
+#: ../includes/frel-helper.php:401
+msgid "Twitter #3"
+msgstr ""
+
+#: ../includes/frel-helper.php:402
+msgid "Twitter #4"
+msgstr ""
+
+#: ../includes/frel-helper.php:404
+msgid "User #1"
+msgstr ""
+
+#: ../includes/frel-helper.php:406
+msgid "Vkontakte #1"
+msgstr ""
+
+#: ../includes/frel-helper.php:407
+msgid "Vkontakte #2"
+msgstr ""
+
+#: ../includes/frel-helper.php:408
+msgid "Vkontakte #3"
+msgstr ""
+
+#: ../includes/frel-helper.php:409
+msgid "Vkontakte #4"
+msgstr ""
+
+#: ../includes/frel-helper.php:411
+msgid "Wechat #1"
+msgstr ""
+
+#: ../includes/frel-helper.php:412
+msgid "Wechat #2"
+msgstr ""
+
+#: ../includes/frel-helper.php:414
+msgid "Whatsapp #1"
+msgstr ""
+
+#: ../includes/frel-helper.php:415
+msgid "Whatsapp #2"
+msgstr ""
+
+#: ../includes/frel-helper.php:416
+msgid "Whatsapp #3"
+msgstr ""
+
+#: ../includes/frel-helper.php:417
+msgid "Whatsapp #4"
+msgstr ""
+
+#: ../includes/frel-helper.php:419
+msgid "Youtube #1"
+msgstr ""
+
+#: ../includes/frel-helper.php:420
+msgid "Youtube #2"
+msgstr ""
+
+#: ../includes/frel-helper.php:421
+msgid "Youtube #3"
+msgstr ""
+
+#: ../includes/frel-helper.php:422
+msgid "Youtube #4"
+msgstr ""
+
+#: ../includes/frel-helper.php:424
+msgid "Code"
+msgstr ""
+
+#: ../includes/frel-helper.php:425
+msgid "Contact"
+msgstr ""
+
+#: ../includes/frel-helper.php:426
+msgid "Google"
+msgstr ""
+
+#: ../includes/frel-helper.php:427
+msgid "Images"
+msgstr ""
+
+#: ../includes/frel-helper.php:428
+msgid "Settings"
+msgstr ""
+
+#: ../includes/frel-helper.php:429
+msgid "web"
+msgstr ""
+
+#: ../widgets/frel-audio.php:27
+msgid "Audio"
+msgstr ""
+
+#: ../widgets/frel-audio.php:51 ../widgets/frel-detail-list.php:50
+#: ../widgets/frel-featured-recipes.php:51 ../widgets/frel-gallery.php:50
+#: ../widgets/frel-pinterest-image.php:53 ../widgets/frel-posts-slider.php:51
+msgid "Content"
+msgstr ""
+
+#: ../widgets/frel-audio.php:58 ../widgets/frel-gallery.php:56
+msgid "Layout"
+msgstr ""
+
+#: ../widgets/frel-audio.php:62
+msgid "Alpha"
+msgstr ""
+
+#: ../widgets/frel-audio.php:63
+msgid "Beta"
+msgstr ""
+
+#: ../widgets/frel-audio.php:71
+msgid "Subtitle"
+msgstr ""
+
+#: ../widgets/frel-audio.php:73
+msgid "Type subtitle here"
+msgstr ""
+
+#: ../widgets/frel-audio.php:74
+msgid "Have you heard?"
+msgstr ""
+
+#: ../widgets/frel-audio.php:82 ../widgets/frel-featured-recipes.php:215
+#: ../widgets/frel-ingredients.php:247
+#: ../widgets/frel-recipe-instructions.php:99
+msgid "Title"
+msgstr ""
+
+#: ../widgets/frel-audio.php:84
+msgid "Type title here"
+msgstr ""
+
+#: ../widgets/frel-audio.php:85
+msgid "Becipe podcast is here"
+msgstr ""
+
+#: ../widgets/frel-audio.php:93
+msgid "Description"
+msgstr ""
+
+#: ../widgets/frel-audio.php:95
+msgid "Type description here"
+msgstr ""
+
+#: ../widgets/frel-audio.php:96
+msgid "Get started on latest episodes"
+msgstr ""
+
+#: ../widgets/frel-audio.php:107
+msgid "Audio Text"
+msgstr ""
+
+#: ../widgets/frel-audio.php:109
+msgid "Listen in"
+msgstr ""
+
+#: ../widgets/frel-audio.php:117
+msgid "Recipe Page URL"
+msgstr ""
+
+#: ../widgets/frel-audio.php:130 ../widgets/frel-detail-list.php:137
+#: ../widgets/frel-posts-slider.php:114
+msgid "Coloring"
+msgstr ""
+
+#: ../widgets/frel-audio.php:137 ../widgets/frel-posts-slider.php:121
+msgid "Background"
+msgstr ""
+
+#: ../widgets/frel-audio.php:146 ../widgets/frel-posts-slider.php:130
+msgid "Overlay Color"
+msgstr ""
+
+#: ../widgets/frel-detail-list.php:27
+msgid "Detail list"
+msgstr ""
+
+#: ../widgets/frel-detail-list.php:57
+msgid "List Title"
+msgstr ""
+
+#: ../widgets/frel-detail-list.php:59
+msgid "Type list title here"
+msgstr ""
+
+#: ../widgets/frel-detail-list.php:66
+msgid "List Description"
+msgstr ""
+
+#: ../widgets/frel-detail-list.php:68
+msgid "Type list description here"
+msgstr ""
+
+#: ../widgets/frel-detail-list.php:75 ../widgets/frel-ingredients.php:48
+#: ../widgets/frel-ingredients.php:292
+#: ../widgets/frel-recipe-instructions.php:48
+msgid "List"
+msgstr ""
+
+#: ../widgets/frel-detail-list.php:80
+msgid "Phone"
+msgstr ""
+
+#: ../widgets/frel-detail-list.php:81
+msgid "<a href=\"tel:+770221770505\">+77 022 177 05 05</a>"
+msgstr ""
+
+#: ../widgets/frel-detail-list.php:84
+msgid "Email"
+msgstr ""
+
+#: ../widgets/frel-detail-list.php:85
+msgid "<a href=\"mailto:frenifyteam@gmail.com\">frenifyteam@gmail.com</a>"
+msgstr ""
+
+#: ../widgets/frel-detail-list.php:88
+msgid "Office"
+msgstr ""
+
+#: ../widgets/frel-detail-list.php:89
+msgid "Carbon Street 11, London, UK"
+msgstr ""
+
+#: ../widgets/frel-detail-list.php:101 ../widgets/frel-ingredients.php:240
+msgid "Options"
+msgstr ""
+
+#: ../widgets/frel-detail-list.php:108
+msgid "Text Align"
+msgstr ""
+
+#: ../widgets/frel-detail-list.php:112
+msgid "Left"
+msgstr ""
+
+#: ../widgets/frel-detail-list.php:113
+msgid "Center"
+msgstr ""
+
+#: ../widgets/frel-detail-list.php:114
+msgid "Right"
+msgstr ""
+
+#: ../widgets/frel-detail-list.php:122 ../widgets/frel-posts-list-filter.php:60
+msgid "Column Count"
+msgstr ""
+
+#: ../widgets/frel-detail-list.php:126 ../widgets/frel-gallery.php:185
+#: ../widgets/frel-gallery.php:281
+msgid "2 Columns"
+msgstr ""
+
+#: ../widgets/frel-detail-list.php:127 ../widgets/frel-gallery.php:186
+#: ../widgets/frel-gallery.php:282
+msgid "3 Columns"
+msgstr ""
+
+#: ../widgets/frel-detail-list.php:128 ../widgets/frel-gallery.php:187
+#: ../widgets/frel-gallery.php:283
+msgid "4 Columns"
+msgstr ""
+
+#: ../widgets/frel-detail-list.php:145 ../widgets/frel-ingredients.php:276
+#: ../widgets/frel-posts-slider.php:302 ../widgets/frel-posts-slider.php:318
+#: ../widgets/frel-recipe-instructions.php:122
+msgid "Title Color"
+msgstr ""
+
+#: ../widgets/frel-detail-list.php:161
+msgid "Description Color"
+msgstr ""
+
+#: ../widgets/frel-detail-list.php:177
+msgid "Link Regular Color"
+msgstr ""
+
+#: ../widgets/frel-detail-list.php:193
+msgid "Link Hover Color"
+msgstr ""
+
+#: ../widgets/frel-detail-list.php:210 ../widgets/frel-featured-recipes.php:224
+msgid "Typography"
+msgstr ""
+
+#: ../widgets/frel-detail-list.php:218
+msgid "Title Typography"
+msgstr ""
+
+#: ../widgets/frel-detail-list.php:254
+msgid "Description Typography"
+msgstr ""
+
+#: ../widgets/frel-detail-list.php:290
+msgid "Link Typography"
+msgstr ""
+
+#: ../widgets/frel-featured-recipes.php:27
+#: ../widgets/frel-featured-recipes.php:103
+msgid "Featured Recipes"
+msgstr ""
+
+#: ../widgets/frel-featured-recipes.php:58
+#: ../widgets/frel-posts-list-filter.php:144
+#: ../widgets/frel-posts-slider.php:67
+msgid "Post Order"
+msgstr ""
+
+#: ../widgets/frel-featured-recipes.php:61
+#: ../widgets/frel-posts-list-filter.php:147
+#: ../widgets/frel-posts-slider.php:70
+msgid "Ascending"
+msgstr ""
+
+#: ../widgets/frel-featured-recipes.php:62
+#: ../widgets/frel-posts-list-filter.php:148
+#: ../widgets/frel-posts-slider.php:71
+msgid "Descending"
+msgstr ""
+
+#: ../widgets/frel-featured-recipes.php:72
+#: ../widgets/frel-posts-list-filter.php:157
+#: ../widgets/frel-posts-slider.php:81
+msgid "Post Orderby"
+msgstr ""
+
+#: ../widgets/frel-featured-recipes.php:75
+#: ../widgets/frel-posts-list-filter.php:160
+#: ../widgets/frel-posts-slider.php:84
+msgid "Select Option"
+msgstr ""
+
+#: ../widgets/frel-featured-recipes.php:76
+#: ../widgets/frel-posts-list-filter.php:161
+#: ../widgets/frel-posts-slider.php:85
+msgid "By ID"
+msgstr ""
+
+#: ../widgets/frel-featured-recipes.php:77
+#: ../widgets/frel-posts-list-filter.php:162
+#: ../widgets/frel-posts-slider.php:86
+msgid "By Author"
+msgstr ""
+
+#: ../widgets/frel-featured-recipes.php:78
+#: ../widgets/frel-posts-list-filter.php:163
+#: ../widgets/frel-posts-slider.php:87
+msgid "By Title"
+msgstr ""
+
+#: ../widgets/frel-featured-recipes.php:79
+#: ../widgets/frel-posts-list-filter.php:164
+#: ../widgets/frel-posts-slider.php:88
+msgid "By Name"
+msgstr ""
+
+#: ../widgets/frel-featured-recipes.php:80
+#: ../widgets/frel-posts-list-filter.php:165
+#: ../widgets/frel-posts-slider.php:89
+msgid "Random"
+msgstr ""
+
+#: ../widgets/frel-featured-recipes.php:81
+#: ../widgets/frel-posts-list-filter.php:166
+#: ../widgets/frel-posts-slider.php:90
+msgid "By Number of Comments"
+msgstr ""
+
+#: ../widgets/frel-featured-recipes.php:82
+#: ../widgets/frel-posts-list-filter.php:167
+#: ../widgets/frel-posts-slider.php:91
+msgid "By Page Order"
+msgstr ""
+
+#: ../widgets/frel-featured-recipes.php:94 ../widgets/frel-ingredients.php:188
+#: ../widgets/frel-posts-list-filter.php:180
+msgid "Labels"
+msgstr ""
+
+#: ../widgets/frel-featured-recipes.php:101
+msgid "Featured Text"
+msgstr ""
+
+#: ../widgets/frel-featured-recipes.php:111
+msgid "See All Text"
+msgstr ""
+
+#: ../widgets/frel-featured-recipes.php:113
+msgid "See all featured recipes"
+msgstr ""
+
+#: ../widgets/frel-featured-recipes.php:122
+#: ../widgets/frel-posts-list-filter.php:233
+msgid "Read More Label"
+msgstr ""
+
+#: ../widgets/frel-featured-recipes.php:124
+#: ../widgets/frel-posts-list-filter.php:235
+#: ../widgets/frel-posts-slider.php:104 ../widgets/frel-posts-slider.php:334
+msgid "Read More"
+msgstr ""
+
+#: ../widgets/frel-featured-recipes.php:134
+msgid "Style"
+msgstr ""
+
+#: ../widgets/frel-featured-recipes.php:141
+msgid "Category"
+msgstr ""
+
+#: ../widgets/frel-featured-recipes.php:150
+#: ../widgets/frel-posts-slider.php:229 ../widgets/frel-posts-slider.php:360
+#: ../widgets/frel-posts-slider.php:393
+msgid "Regular Background Color"
+msgstr ""
+
+#: ../widgets/frel-featured-recipes.php:166
+#: ../widgets/frel-posts-slider.php:197 ../widgets/frel-posts-slider.php:343
+msgid "Regular Text Color"
+msgstr ""
+
+#: ../widgets/frel-featured-recipes.php:182
+#: ../widgets/frel-posts-slider.php:277
+msgid "Hover Background Color"
+msgstr ""
+
+#: ../widgets/frel-featured-recipes.php:198
+#: ../widgets/frel-posts-slider.php:245
+msgid "Hover Text Color"
+msgstr ""
+
+#: ../widgets/frel-featured-recipes.php:259
+msgid "Regular Color"
+msgstr ""
+
+#: ../widgets/frel-featured-recipes.php:275
+msgid "Hover Color"
+msgstr ""
+
+#: ../widgets/frel-gallery.php:27
+msgid "Gallery"
+msgstr ""
+
+#: ../widgets/frel-gallery.php:60
+msgid "Collage"
+msgstr ""
+
+#: ../widgets/frel-gallery.php:61
+msgid "Justified"
+msgstr ""
+
+#: ../widgets/frel-gallery.php:62
+msgid "Masonry"
+msgstr ""
+
+#: ../widgets/frel-gallery.php:63
+msgid "Slider"
+msgstr ""
+
+#: ../widgets/frel-gallery.php:64
+msgid "Grid"
+msgstr ""
+
+#: ../widgets/frel-gallery.php:71
+msgid "Add Images"
+msgstr ""
+
+#: ../widgets/frel-gallery.php:80 ../widgets/frel-gallery.php:107
+#: ../widgets/frel-gallery.php:153 ../widgets/frel-gallery.php:249
+msgid "Gutter"
+msgstr ""
+
+#: ../widgets/frel-gallery.php:81 ../widgets/frel-gallery.php:154
+msgid "In px. Default value: 20px"
+msgstr ""
+
+#: ../widgets/frel-gallery.php:108
+msgid "In px. Default value: 10px"
+msgstr ""
+
+#: ../widgets/frel-gallery.php:130
+msgid "Height"
+msgstr ""
+
+#: ../widgets/frel-gallery.php:131
+msgid "In px. Default value: 400px"
+msgstr ""
+
+#: ../widgets/frel-gallery.php:180 ../widgets/frel-gallery.php:276
+msgid "Columns"
+msgstr ""
+
+#: ../widgets/frel-gallery.php:184 ../widgets/frel-gallery.php:280
+msgid "1 Column"
+msgstr ""
+
+#: ../widgets/frel-gallery.php:197
+msgid "Image Ratio"
+msgstr ""
+
+#: ../widgets/frel-gallery.php:224
+msgid "Border Radius"
+msgstr ""
+
+#: ../widgets/frel-gallery.php:250
+msgid "In px. Default value: 0px"
+msgstr ""
+
+#: ../widgets/frel-gallery.php:293
+msgid "Lightbox"
+msgstr ""
+
+#: ../widgets/frel-gallery.php:297
+msgid "Enabled"
+msgstr ""
+
+#: ../widgets/frel-gallery.php:298
+msgid "Disabled"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:24 ../widgets/frel-ingredients.php:198
+msgid "Ingredients"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:56
+msgid "Servings (people)"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:78
+#: ../widgets/frel-recipe-instructions.php:57
+msgid "Ingredient Description"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:80
+#: ../widgets/frel-recipe-instructions.php:59
+msgid "Default description"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:81
+#: ../widgets/frel-recipe-instructions.php:60
+msgid "Type your description here"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:88
+msgid "Item Type"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:92
+msgid "Ingredient Item"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:93
+msgid "Ingredient Group"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:101
+#: ../widgets/frel-recipe-instructions.php:75
+msgid "Accordion Items"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:106
+msgid "for the cauliflower mash"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:110
+msgid "{{2}} tablespoons <strong>olive oil</strong>"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:114
+msgid "{{1}} head <strong>cauliflower</strong>, cut into small florets (about {{6}} cups)"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:118 ../widgets/frel-ingredients.php:158
+msgid "{{3}} cloves <strong>garlic</strong>, minced"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:122
+msgid "{{1}} cup <strong>milk</strong>"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:126
+msgid "{{3}} cups <strong>vegetable</strong> or <strong>chicken broth</strong>"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:130
+msgid "{{1}} 14-ounce can <strong>white beans</strong>, rinsed and drained"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:134
+msgid "{{1/2}} cup <strong>cornmeal</strong>"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:138
+msgid "{{1/2}} cup <strong>shredded cheese</strong>, like sharp cheddar or havarti"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:142
+msgid "{{1}} teaspoon <strong>salt</strong>"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:146
+msgid "for the kale"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:150
+msgid "{{1}} tablespoon <strong>sheep fat</strong> (or olive oil)"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:154
+msgid "{{3}} cups <strong>kalettes</strong> OR chopped <strong>kale</strong>"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:162
+msgid "for the shrimp"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:166
+msgid "{{1}} tablespoon <strong>olive oil</strong>"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:170
+msgid "{{1/2}} lb. <strong>shrimp</strong> (enough for 4 people)"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:174
+msgid "a few good shakes of <strong>garlic salt, chili powder, cayenne</strong>, and/or <strong>black pepper</strong>"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:196
+msgid "Ingredients Text"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:206
+msgid "Serves Text"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:208
+msgid "Serves"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:216
+msgid "People Text"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:218
+msgid "People"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:226
+msgid "Print Text"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:228
+msgid "Print Recipe"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:256
+msgid "Margin"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:301
+msgid "Group Color"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:317
+msgid "Icon Color"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:333 ../widgets/frel-posts-slider.php:155
+msgid "Text Color"
+msgstr ""
+
+#: ../widgets/frel-ingredients.php:349
+msgid "Strong Color"
+msgstr ""
+
+#: ../widgets/frel-pinterest-image.php:27
+msgid "Pinterest Image"
+msgstr ""
+
+#: ../widgets/frel-pinterest-image.php:60
+msgid "Choose Right Image"
+msgstr ""
+
+#: ../widgets/frel-pinterest-image.php:95
+msgid "Pin"
+msgstr ""
+
+#: ../widgets/frel-posts-list-filter.php:27
+msgid "Posts List with Filter"
+msgstr ""
+
+#: ../widgets/frel-posts-list-filter.php:53
+msgid "Query"
+msgstr ""
+
+#: ../widgets/frel-posts-list-filter.php:78
+msgid "Post Perpage"
+msgstr ""
+
+#: ../widgets/frel-posts-list-filter.php:96
+msgid "Include Categories"
+msgstr ""
+
+#: ../widgets/frel-posts-list-filter.php:97
+msgid "Select a category to include or leave blank for all."
+msgstr ""
+
+#: ../widgets/frel-posts-list-filter.php:109
+msgid "Exclude Categories"
+msgstr ""
+
+#: ../widgets/frel-posts-list-filter.php:110
+msgid "Select a category to exclude"
+msgstr ""
+
+#: ../widgets/frel-posts-list-filter.php:121
+msgid "Include Posts"
+msgstr ""
+
+#: ../widgets/frel-posts-list-filter.php:133
+msgid "Exclude Posts"
+msgstr ""
+
+#: ../widgets/frel-posts-list-filter.php:186
+msgid "Filter Label"
+msgstr ""
+
+#: ../widgets/frel-posts-list-filter.php:188
+msgid "Filter"
+msgstr ""
+
+#: ../widgets/frel-posts-list-filter.php:196
+msgid "Categories Label"
+msgstr ""
+
+#: ../widgets/frel-posts-list-filter.php:198
+msgid "All Categories"
+msgstr ""
+
+#: ../widgets/frel-posts-list-filter.php:205
+msgid "Country Label"
+msgstr ""
+
+#: ../widgets/frel-posts-list-filter.php:207
+msgid "Country"
+msgstr ""
+
+#: ../widgets/frel-posts-list-filter.php:214
+msgid "Difficulty Label"
+msgstr ""
+
+#: ../widgets/frel-posts-list-filter.php:216
+msgid "Difficulty"
+msgstr ""
+
+#: ../widgets/frel-posts-list-filter.php:223
+msgid "Type Label"
+msgstr ""
+
+#: ../widgets/frel-posts-list-filter.php:225
+msgid "Type Something..."
+msgstr ""
+
+#: ../widgets/frel-posts-slider.php:27
+msgid "Posts Slider"
+msgstr ""
+
+#: ../widgets/frel-posts-slider.php:58
+msgid "Post Offset"
+msgstr ""
+
+#: ../widgets/frel-posts-slider.php:101
+msgid "Read More Text"
+msgstr ""
+
+#: ../widgets/frel-posts-slider.php:103
+msgid "Type read more text here"
+msgstr ""
+
+#: ../widgets/frel-posts-slider.php:146
+msgid "Author Meta"
+msgstr ""
+
+#: ../widgets/frel-posts-slider.php:171
+msgid "Link Color"
+msgstr ""
+
+#: ../widgets/frel-posts-slider.php:188
+msgid "Date Meta"
+msgstr ""
+
+#: ../widgets/frel-posts-slider.php:213
+msgid "Regular Border Color"
+msgstr ""
+
+#: ../widgets/frel-posts-slider.php:261
+msgid "Hover Border Color"
+msgstr ""
+
+#: ../widgets/frel-posts-slider.php:293
+msgid "Title & Description"
+msgstr ""
+
+#: ../widgets/frel-posts-slider.php:376
+msgid "Regular Hover Color"
+msgstr ""
+
+#: ../widgets/frel-posts-slider.php:409
+msgid "Numbered Navigation"
+msgstr ""
+
+#: ../widgets/frel-posts-slider.php:418
+msgid "Inactive Color"
+msgstr ""
+
+#: ../widgets/frel-posts-slider.php:435
+msgid "Active Color"
+msgstr ""
+
+#: ../widgets/frel-recipe-instructions.php:24
+msgid "Recipe Instructions"
+msgstr ""
+
+#: ../widgets/frel-recipe-instructions.php:67
+msgid "Choose Image"
+msgstr ""
+
+#: ../widgets/frel-recipe-instructions.php:80
+msgid "<strong>Cauliflower Mash:</strong> Heat the olive oil in a large soup pot. Add the cauliflower and garlic. Saute for a minute or two, until the garlic is fragrant. Add the milk and 2 cups broth. Simmer for 10 minutes or until soft. Add the white beans and mash roughly with the back of a large wooden spoon. It will be soupy - that is okay. Stir in the cornmeal and things will start to thicken a bit. Adjust the consistency by adding in the last cup of broth as needed. Stir in the cheese and season to taste."
+msgstr ""
+
+#: ../widgets/frel-recipe-instructions.php:83
+msgid "<strong>Kale:</strong> Heat the sheep fat in a nonstick skillet over medium low heat. Add the greens and garlic and saute until softened. For the kalettes, I added a little water at the end to sort of steam them to finish them off. Remove kale and wipe out pan with a paper towel."
+msgstr ""
+
+#: ../widgets/frel-recipe-instructions.php:86
+msgid "<strong>Shrimp:</strong> In the same skillet, add the oil over medium heat. Pat the shrimp dry. Add to the pan and sprinkle with seasonings to taste. Cook for just a few minutes and then add a quick splash of water or broth to the pan (about 2 tablespoons) to pull the browned bits and spices into something of a saucy-coating for the shrimp. It is delicious."
+msgstr ""
+
+#: ../widgets/frel-recipe-instructions.php:89
+msgid "<strong>Serve:</strong> Serve the shrimp and kale over a big pile of cauliflower mash! SO yummy."
+msgstr ""
+
+#: ../widgets/frel-recipe-instructions.php:101
+msgid "Instructions"
+msgstr ""
+
+#: ../widgets/frel-recipe-instructions.php:113
+msgid "Color"
+msgstr ""
