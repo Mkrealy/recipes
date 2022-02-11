@@ -1,0 +1,9 @@
+/* 02. SKELETON */
+/*
+* 	Responsive grid pixel system - v1.1
+* 	Copyright 2018, Frenify
+*   Author: Frenify
+* 	Created Date : 01-01-2017
+*/
+
+.clearfix,.clearfix:after,.fn-container{clear:both}.fn-container,.row{height:auto}.fn-container,.fn-col-12{width:100%}.clearfix:after,.clearfix:before{display:table;line-height:0;content:""}.fn-container{max-width:1480px;margin-left:auto;margin-right:auto;padding:0 40px;position:relative;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}.fn-container.full{max-width:100%}.fn-sidebar,[class*=fn-col]{float:left;margin-right:4%}[class*=fn-col].float-right{float:right}.fn-col-12,.fn-sidebar.last,[class*=fn-col].last,[class*=fn-col].no-space{margin-right:0}.fn-col-9{width:74%}.fn-col-8{width:65.3333%}.fn-col-6{width:48%}.fn-col-4{width:30.6666%}.fn-col-3{width:22%}.fn-sidebar{width:30.6666%}.fn-col-9.no-space{width:78%}.fn-col-8.no-space{width:69.3333%}.fn-col-6.no-space{width:52%}.fn-col-4.no-space{width:34.6666%}.fn-col-3.no-space{width:26%}@media (max-width:1040px){.fn-sidebar{width:100%;clear:both;margin-right:0;padding:50px 0}.fn-col-8.fix{width:100%}.fn-container{padding:0 20px}}@media (max-width:768px){.fn-col-12,.fn-col-3,.fn-col-4,.fn-col-6,.fn-col-8,.fn-col-9{width:100%}}@media (max-width:480px){.fn-container{padding:0 10px}}

@@ -1,0 +1,67 @@
+.aligncenter	{ display:block;  margin:0 auto; margin-bottom: 30px;}
+.alignright		{ float:right;  margin-left:30px; margin-bottom: 30px;}
+.alignleft		{ float:left;  margin-right:30px; margin-bottom: 30px;}
+.floatleft		{ float:left}
+.floatright		{ float:right}
+.textcenter		{ text-align:center}
+.textright		{ text-align:right}
+.textleft		{ text-align:left}
+.wp-caption		{ text-align:center; margin-bottom:20px; max-width:100%;}
+.wp-caption img	{ margin:0;  padding:0;  border:0 none}
+.wp-caption p.wp-caption-text{font-size:12px!important; padding:0;  margin:10px 15px 0 15px !important; font-style:italic;  line-height:1.4!important; letter-spacing:0.5px; font-weight:400; }
+.wp-caption.alignleft p.wp-caption-text	{text-align:left;}
+.wp-caption.alignright p.wp-caption-text{text-align:right;}
+.wp-smiley		{margin:0 !important; max-height:1em}
+blockquote.left	{margin-right:40px; text-align:left; margin-left:0; width:50%; float:left;}
+blockquote.right{margin-left:40px; text-align:left; margin-right:0; width:50%; float:right}
+.mc_signup_submit #mc_signup_submit{
+	margin-top:0;
+	width:100%;
+}
+.bypostauthor{
+	margin: 0px;
+	padding: 0px;
+}
+.gallery-caption{
+	margin: 0px;
+	font-size: 13px;
+	font-style: italic;
+	color: #999;
+	padding: 5px 0px;
+}
+/* Text meant only for screen readers. */
+.screen-reader-text {
+	clip: rect(1px, 1px, 1px, 1px);
+	position: absolute !important;
+        white-space: nowrap;
+	height: 1px;
+	width: 1px;
+	overflow: hidden;
+}
+
+.screen-reader-text:focus {
+	background-color: #f1f1f1;
+	clip: auto !important;
+	color: #21759b;
+	display: block;
+	font-size: 14px;
+	font-size: 0.875rem;
+	font-weight: bold;
+	height: auto;
+	left: 5px;
+	line-height: normal;
+	padding: 15px 23px 14px;
+	text-decoration: none;
+	top: 5px;
+	width: auto;
+	z-index: 100000; /* Above WP toolbar. */
+	
+	-webkit-border-radius: 3px;
+	   -moz-border-radius: 3px;
+	        border-radius: 3px;
+	
+	-webkit-box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+	   -moz-box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+			box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+}
+.sticky{height: auto;}

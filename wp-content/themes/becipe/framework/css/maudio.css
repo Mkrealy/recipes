@@ -1,0 +1,92 @@
+div.becipe_fn_maudio .audio{height:0;overflow:hidden;display:none;}
+div.becipe_fn_maudio .audio-control{
+  overflow:hidden;
+  margin-top:10px;
+  font-size: 12px;
+  font-weight: normal;
+}
+div.becipe_fn_maudio .audio-control a,
+div.becipe_fn_maudio .audio-control div{
+  float:left;
+  margin:0 5px;
+  cursor:pointer;
+}
+div.becipe_fn_maudio .audio-control a{
+  display:block;
+  background:url(../img/audio_icon.png) no-repeat 0 0;
+  width:30px;
+  height:30px;
+  text-align:center;
+  text-decoration:none;
+  overflow:hidden;
+}
+div.becipe_fn_maudio .audio-control a.play{
+  border-radius:50%;
+  background-color:#e6183f;
+  background-position:10px 8px;
+}
+div.becipe_fn_maudio.playing .audio-control a.play{
+  background-position:11px -22px;
+}
+div.becipe_fn_maudio .audio-control a.fast-reverse,
+div.becipe_fn_maudio .audio-control a.fast-forward{
+  width:17px;
+  height:17px;
+  margin-top:7px;
+  background-position:-50px 1px;
+}
+div.becipe_fn_maudio .audio-control a.fast-reverse{
+  background-position:-50px -59px;
+
+}
+div.becipe_fn_maudio .audio-control a.fast-forward:hover{
+  background-position:-50px -29px;
+}
+div.becipe_fn_maudio .audio-control a.fast-reverse:hover{
+  background-position:-50px -89px;
+}
+
+div.becipe_fn_maudio .audio-control .progress-bar{
+  width:145px;
+  height:8px;
+  margin:11px 5px;
+  border-radius:3px;
+  background:#afafaf;
+  overflow:hidden;
+}
+div.becipe_fn_maudio .audio-control .progress-pass{
+  width:0;
+  height:8px;
+  margin:0;
+  border-radius:3px;
+  background:#e6183f;
+}
+div.becipe_fn_maudio .audio-control .time-keep{
+  height:30px;
+  line-height:30px;
+  color:#45556c;
+  cursor:default;
+}
+div.becipe_fn_maudio .audio-control .mute{
+  width:21px;
+  height:17px;
+  margin-top:7px;
+  background-position:0 -60px;
+}
+div.becipe_fn_maudio .audio-control .mute.muted{
+  background-position:0 -90px;
+}
+div.becipe_fn_maudio .audio-control .volume-bar{
+  width:50px;
+  height:5px;
+  margin-top:13px;
+  border-radius:2px;
+  background:#afafaf;
+}
+div.becipe_fn_maudio .audio-control .volume-pass{
+  width:100%;
+  height:5px;
+  margin:0;
+  border-radius:2px;
+  background:#e6183f;
+}
